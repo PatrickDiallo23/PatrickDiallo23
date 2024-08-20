@@ -17,7 +17,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 
 
 ## 🔧 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,cs,css,dart,docker,dotnet,figma,firebase,flutter,github,go,html,java,js,latex,linux,nodejs,postgres,postman,py,spring,ts&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,cs,css,dart,docker,dotnet,figma,firebase,flutter,github,go,html,java,js,latex,linux,nodejs,postgres,postman,py,spring,ts&theme=dark)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
