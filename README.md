@@ -2,7 +2,7 @@
 
 I am a passionate Alumni of Polytechnic University of Bucharest, driven by a curiosity for technology and a love for creation. My journey involves delving into the world of computer science, exploring new ideas, getting the big picture, and adapt to new challenges. Some of my favorite IT topics are: ***Fullstack Development***, ***AI***, ***Mobile Applications***, ***Internet of Things***, etc.
 
-![Patrick Diallo's Stats](https://github-readme-stats.vercel.app/api?username=PatrickDiallo23&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&include_all_commits=true)
+![Patrick Diallo's Stats](https://github-readme-stats.vercel.app/api?username=PatrickDiallo23&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&include_all_commits=true&cache_seconds=30000)
 
 ## 🚀 About Me
 
