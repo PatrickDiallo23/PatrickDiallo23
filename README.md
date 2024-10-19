@@ -14,7 +14,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 
 ## 📝 My Articles
 - [Using Spatial Indexing Systems to Optimize Emergency Response Routes](https://ieeexplore.ieee.org/abstract/document/10214866)
-
+- [Optimizing the Scheduling of Teaching Activities in a Faculty](https://www.mdpi.com/2076-3417/14/20/9554)
 
 ## 🔧 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,cs,css,dart,docker,dotnet,figma,firebase,flutter,github,go,html,java,js,latex,linux,nodejs,postgres,postman,py,spring,ts&theme=dark)](https://skillicons.dev)
