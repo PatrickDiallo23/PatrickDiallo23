@@ -6,7 +6,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 
 ## 🚀 About Me
 
-- 🔭 I graduated my Master's in Advanced Software Systems at Politehnica University of Bucharest.
+- 🔭 I graduated my Master's in Advanced Software Systems at Politehnica University of Bucharest and my Bachelor's in Faculty of Mathematics and Computer Science at University of Bucharest.
 - 👨🏽‍💻 I'm currently a Java Developer at [Luxoft](https://www.luxoft.com/).
 - 💡 I'm always looking forward to new tech challenges and projects with a major impact on society.
 - 📚 I am always trying to develop myself by exploring different frameworks and programming languages and applying my knowledge in concrete projects.
