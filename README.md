@@ -30,6 +30,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 ## 🏆 Achievements
 
 - 🌟 Contributed to [JAIG](https://github.com/sonkin/JAIG) - Contributed to Java GenAI-powered Code Generator open source project by integrating Azure OpenAI API into JAIG (as the main contribution).
+- 🌟 Contributed to [Timefold](https://github.com/timefoldai) - Contributed to Timefold Solver open source project by porting some Java Planning examples to Python.
 
 
 ## 📬 Get in Touch
