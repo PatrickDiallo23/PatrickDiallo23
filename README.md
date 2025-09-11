@@ -7,7 +7,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 ## 🚀 About Me
 
 - 🔭 I graduated my Master's in Advanced Software Systems at Politehnica University of Bucharest and my Bachelor's in Faculty of Mathematics and Computer Science at University of Bucharest.
-- 👨🏽‍💻 I'm currently a Java Developer at [Luxoft](https://www.luxoft.com/).
+- 👨🏽‍💻 I'm currently a Devops Engineer (former Java Developer) at [Luxoft](https://www.luxoft.com/) working on the [ASML project](https://www.asml.com/en).
 - 💡 I'm always looking forward to new tech challenges and projects with a major impact on society.
 - 📚 I am always trying to develop myself by exploring different frameworks and programming languages and applying my knowledge in concrete projects.
 
@@ -23,14 +23,14 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 ## 🌱 Currently Exploring
 
 - Learning Golang programming language to develop high performance solutions.
-- Learning GenAI APIs and their capabilities for implementing innovative software solutions.
+- Learning GenAI APIs, AI domain, Operation Research (OR) optimization domain and their capabilities for implementing innovative software solutions.
 - Studying .Net Framework and its' compatibility with Linux OS (needed at project that I'm currently working at my workplace).
 
 
 ## 🏆 Achievements
 
-- 🌟 Contributed to [JAIG](https://github.com/sonkin/JAIG) - Contributed to Java GenAI-powered Code Generator open source project by integrating Azure OpenAI API into JAIG (as the main contribution).
-- 🌟 Contributed to [Timefold](https://github.com/timefoldai) - Contributed to Timefold Solver open source project by porting some Java Planning examples to Python.
+- 🌟 Contributed to [JAIG](https://github.com/sonkin/JAIG) - Contributed to Java GenAI-powered Code Generator open source project by integrating Azure OpenAI API into JAIG (as the main contribution), refactoring codebase, adding the possiblity to use Refactoring Mode on entire Java files and providing integration documentation with OpenAI vendors.
+- 🌟 Contributed to [Timefold](https://github.com/timefoldai) - Contributed to Timefold Solver open source project by porting some Java Planning examples to Python and by adding high-level methods for simplifying the usage of Benchmark Aggregation feature and updated the documentation to understand how to use those methods.
 
 
 ## 📬 Get in Touch
