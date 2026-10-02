@@ -36,6 +36,7 @@ I am a passionate Alumni of Polytechnic University of Bucharest, driven by a cur
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/diallo-francis-patrick-4a1a61218/)
+- Check out my [Portfolio](https://diallofrancispatrick.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
